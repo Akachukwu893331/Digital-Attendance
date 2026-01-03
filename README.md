@@ -1,9 +1,8 @@
-# Digital Attendance System
+# Digital Attendance System     webLink:
 
 A modern, web-based **attendance system** with **real-time face recognition**, designed for schools, offices, or training centers.  
 Built with **Python, Flask, OpenCV, and Bootstrap**, this system automates attendance tracking and ensures accurate session management.
 
----
 
 ## 🌟 Features
 
@@ -14,7 +13,6 @@ Built with **Python, Flask, OpenCV, and Bootstrap**, this system automates atten
 - **Export attendance** — download CSV for easy reporting.
 - **Model training interface** — retrain recognition model from dashboard.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +22,6 @@ Built with **Python, Flask, OpenCV, and Bootstrap**, this system automates atten
 - **Database:** SQLite  
 - **Other Tools:** Face recognition, live webcam streaming  
 
----
 
 ## 📥 Installation
 
@@ -34,13 +31,13 @@ Built with **Python, Flask, OpenCV, and Bootstrap**, this system automates atten
 git clone https://github.com/Akachukwu893331/Digital-Attendance.git
 cd Digital-Attendance
 
-**Create a virtual environment (optional but recommended):**
+Create a virtual environment (optional but recommended):
 python -m venv venv
 venv\Scripts\activate
 
-**Install dependencies:**
+Install dependencies:
 pip install -r requirements.txt
 
 
-**Run the app:**
+Run the app:
 python app.py
