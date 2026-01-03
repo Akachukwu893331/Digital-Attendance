@@ -1,11 +1,10 @@
-# Digital Attendance System     webLink:
+# Digital Attendance System
 
-A modern, web-based **attendance system** with **real-time face recognition**, designed for schools, offices, or training centers.  
+A modern, web-based **Simple attendance system** with **real-time face recognition**, designed for schools, offices, or training centers.  
 Built with **Python, Flask, OpenCV, and Bootstrap**, this system automates attendance tracking and ensures accurate session management.
 
 
 ## 🌟 Features
-
 - **Face recognition-based attendance** — marks students in real time.
 - **Live camera interface** — start/stop attendance with live video preview.
 - **Prevent duplicate marking** — each person is marked only once per session.
@@ -15,7 +14,6 @@ Built with **Python, Flask, OpenCV, and Bootstrap**, this system automates atten
 
 
 ## 🛠️ Tech Stack
-
 - **Backend:** Python 3.11+, Flask  
 - **Frontend:** HTML5, Bootstrap 5, JavaScript  
 - **Machine Learning:** OpenCV, scikit-learn  
