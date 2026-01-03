@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.db
+.env
+venv/
+node_modules/
+.DS_Store
+dataset/
+train_status.json
